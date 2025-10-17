@@ -6,7 +6,7 @@
 
 ### JAVA BASICS
 
-- [ ] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners)
+- [x] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners)
 - [ ] [Core Java Made Easy (Covers the latest Java 18)](https://www.udemy.com/course/corejavamadeeasy)
 - [ ] [Java Web Services](https://www.udemy.com/course/java-web-services/)
 - [ ] [Java Web Services Part 2 - SOAP and REST Security](https://www.udemy.com/course/javawebservicespart2/)
@@ -17,8 +17,6 @@
 - [ ] [Kafka fundamentals for java developers](https://www.udemy.com/course/kafka-fundamentals-for-java-developers/)
 - [ ] [Java Logical Programs and Data Structures For Beginners](https://www.udemy.com/course/java-logical-programs/)
 - [ ] [React in easy steps with Node and Java Backend](https://www.udemy.com/course/reactjs-in-easy-steps/)
-
-- [ ] []()
 
 ### SPRING MVC
 
