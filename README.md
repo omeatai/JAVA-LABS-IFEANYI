@@ -1,5 +1,16 @@
 # JAVA-LABS-IFEANYI by Ifeanyi Omeata
 
+### QA TESTING
+
+- [ ] [The Complete 2025 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
+- [ ] [Software Testing Masterclass (2025) - From Novice to Expert](https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/)
+- [ ] [Learn Software Testing : Beginner to Expert.](https://www.udemy.com/course/comprehensive-software-testing-bootcamp-beginner-to-expert/)
+- [ ] [Learn Manual Software Testing + Agile with Jira Tool](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
+- [ ] [Practical Software Testing 2025-Manual+JIRA+API+DB+Selenium](https://www.udemy.com/course/selenium-cucumber-integration/)
+- [ ] [Learn GenAI Tools & AI Agents for Software Testing](https://www.udemy.com/course/generative-ai-in-software-testing/)
+- [ ] [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/)
+- [ ] [Software Testing Made Easy for Beginners](https://www.udemy.com/course/software-testing-made-easy/)
+
 ### JAVA BASICS
 
 - [x] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners) | [Notes](https://github.com/omeatai/JAVA-LABS-IFEANYI/blob/main/labs/1.md)
@@ -70,7 +81,6 @@
 - [ ] [Java Message Service - JMS Fundamentals](https://www.udemy.com/course/java-message-service-jms-fundamentals/)
 - [ ] [Devops Tools and AWS for Java Microservice Developers](https://www.udemy.com/course/devops-tools-and-aws-for-java-microservice-developers/)
 
-
 ### JAVA TESTING & DESIGN
 
 - [ ] [Clean Code with Java: Learn Simple Design, Refactoring & TDD](https://www.udemy.com/course/java-clean-code-with-refactoring-and-tdd/)
@@ -80,17 +90,6 @@
 - [ ] [Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/)
 - [ ] [Learn Java Unit Testing with Junit & Mockito in 30 Steps](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/)
 - [ ] [Selenium WebDriver & Java - Automation with Selenium](https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/)
-
-### QA TESTING
-
-- [ ] [The Complete 2025 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
-- [ ] [Software Testing Masterclass (2025) - From Novice to Expert](https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/)
-- [ ] [Learn Software Testing : Beginner to Expert.](https://www.udemy.com/course/comprehensive-software-testing-bootcamp-beginner-to-expert/)
-- [ ] [Learn Manual Software Testing + Agile with Jira Tool](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
-- [ ] [Practical Software Testing 2025-Manual+JIRA+API+DB+Selenium](https://www.udemy.com/course/selenium-cucumber-integration/)
-- [ ] [Learn GenAI Tools & AI Agents for Software Testing](https://www.udemy.com/course/generative-ai-in-software-testing/)
-- [ ] [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/)
-- [ ] [Software Testing Made Easy for Beginners](https://www.udemy.com/course/software-testing-made-easy/)
 
 ### YOUTUBE
 
