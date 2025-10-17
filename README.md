@@ -1,12 +1,8 @@
 # JAVA-LABS-IFEANYI by Ifeanyi Omeata
 
-## #LABS
-
-### [1 - Java Fundamentals](https://github.com/omeatai/JAVA-LABS-IFEANYI/blob/main/labs/1.md)
-
 ### JAVA BASICS
 
-- [x] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners)
+- [x] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners)[Notes](https://github.com/omeatai/JAVA-LABS-IFEANYI/blob/main/labs/1.md)
 - [ ] [Core Java Made Easy (Covers the latest Java 18)](https://www.udemy.com/course/corejavamadeeasy)
 - [ ] [Java Web Services](https://www.udemy.com/course/java-web-services/)
 - [ ] [Java Web Services Part 2 - SOAP and REST Security](https://www.udemy.com/course/javawebservicespart2/)
