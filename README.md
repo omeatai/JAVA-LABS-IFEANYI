@@ -12,12 +12,42 @@
 - [ ] [Gradle for java developers](https://www.udemy.com/course/gradle-for-java-developers/)
 - [ ] [Serverless using AWS Lambda for Java Developers](https://www.udemy.com/course/serverless-programming-using-aws-lambda-for-java-developers)
 - [ ] [Generative AI for Java Developers with Azure OpenAI ChatGPT](https://www.udemy.com/course/generative-ai-for-java-developers-with-azure-openai/)
+- [ ] [Generative AI in a Weekend: Learn ChatGPT and OpenAI](https://www.udemy.com/course/generative-ai-with-chatgpt-and-openai-api/)
 - [ ] [Kafka fundamentals for java developers](https://www.udemy.com/course/kafka-fundamentals-for-java-developers/)
 - [ ] [Java Logical Programs and Data Structures For Beginners](https://www.udemy.com/course/java-logical-programs/)
+- [ ] [Learn Java Functional Programming with Lambdas & Streams](https://www.udemy.com/course/functional-programming-with-java/)
 - [ ] [React in easy steps with Node and Java Backend](https://www.udemy.com/course/reactjs-in-easy-steps/)
+- [ ] [Go Java Full Stack with Spring Boot and Angular](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/)
+- [ ] [Java Programming Interview Guide : 200+ Questions & Answers](https://www.udemy.com/course/java-interview-questions-and-answers/)
+- [ ] [Spring & Spring Boot Interview Guide](https://www.udemy.com/course/spring-interview-questions-and-answers/)
+- [ ] [AWS Interview Guide - Get Ready for AWS Interview](https://www.udemy.com/course/aws-interview-questions-answers/)
+- [ ] [Eclipse Tutorial For Beginners : Learn Java IDE in 10 Steps](https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/)
+
+### JAVA CLOUD - AZURE & AWS
+
+- [ ] [Master AWS Lambda: Go Serverless with AWS](https://www.udemy.com/course/serverless-tutorial-aws-lambda-and-azure-functions/)
+- [ ] [Docker for Beginners: DevOps for Java & Spring Boot](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/)
+- [ ] [Docker in AWS - Java Spring Boot to AWS Fargate & ECS](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/)
+- [ ] [Kubernetes for Beginners: Google Cloud, AWS & Azure](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/)
+- [ ] [Learn Cloud Computing with AWS in a Weekend](https://www.udemy.com/course/cloud-computing-aws/)
+- [ ] [Learn AWS - Java Spring Boot to AWS Elastic Beanstalk](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/)
+- [ ] [Learn Azure Web Apps - Java Spring Boot Apps to Azure](https://www.udemy.com/course/deploy-spring-boot-to-azure/)
+- [ ] [AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/)
+- [ ] [AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/)
+- [ ] [AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/)
+- [ ] [AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/)
+- [ ] [AWS Certified Solutions Architect Associate - EXAM REVIEW](https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/)
+- [ ] [AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/)
+- [ ] [AWS Certified Developer Associate - EXAM REVIEW - 2021](https://www.udemy.com/course/new-exam-review-aws-certified-developer-associate/)
+- [ ] [DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/)
+- [ ] [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers)
 
 ### SPRING MVC
 
+- [ ] [Spring MVC For Beginners - Build Java Web App in 25 Steps](https://www.udemy.com/course/spring-mvc-tutorial-for-beginners-step-by-step/)
+- [ ] [Master Java Web Services and REST API with Spring Boot](https://www.udemy.com/course/spring-web-services-tutorial/)
+- [ ] [Spring Framework Master Class - Java Spring the Modern Way](https://www.udemy.com/course/spring-tutorial-for-beginners/)
+- [ ] [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/)
 - [ ] [Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/)
 - [ ] [Spring Boot Fundamentals](https://www.udemy.com/course/springbootfundamentals/)
 - [ ] [Spring Framework In Easy Steps](https://www.udemy.com/course/springframeworkineasysteps/)
@@ -41,9 +71,13 @@
 
 ### JAVA TESTING & DESIGN
 
+- [ ] [Clean Code with Java: Learn Simple Design, Refactoring & TDD](https://www.udemy.com/course/java-clean-code-with-refactoring-and-tdd/)
 - [ ] [Java Design Patterns](https://www.udemy.com/course/java-design-patterns/)
 - [ ] [Java Design Patterns: The Complete Masterclass - 21 Patterns](https://www.udemy.com/course/java-design-patterns-the-complete-masterclass/)
 - [ ] [JUnit and Mockito Crash Course](https://www.udemy.com/course/junitandmockitocrashcourse/)
+- [ ] [Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/)
+- [ ] [Learn Java Unit Testing with Junit & Mockito in 30 Steps](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/)
+- [ ] [Selenium WebDriver & Java - Automation with Selenium](https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/)
 - [ ] [The Complete 2025 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
 - [ ] [Software Testing Masterclass (2025) - From Novice to Expert](https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/)
 - [ ] [Learn Software Testing : Beginner to Expert.](https://www.udemy.com/course/comprehensive-software-testing-bootcamp-beginner-to-expert/)
