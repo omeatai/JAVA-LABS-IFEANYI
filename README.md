@@ -7,6 +7,7 @@
 ### JAVA BASICS
 
 - [x] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners)
+- [ ] [Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/)
 - [ ] [Core Java Made Easy (Covers the latest Java 18)](https://www.udemy.com/course/corejavamadeeasy)
 - [ ] [Java Web Services](https://www.udemy.com/course/java-web-services/)
 - [ ] [Java Web Services Part 2 - SOAP and REST Security](https://www.udemy.com/course/javawebservicespart2/)
