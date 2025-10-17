@@ -42,6 +42,7 @@
 ### JAVA TESTING & DESIGN
 
 - [ ] [Java Design Patterns](https://www.udemy.com/course/java-design-patterns/)
+- [ ] [Java Design Patterns: The Complete Masterclass - 21 Patterns](https://www.udemy.com/course/java-design-patterns-the-complete-masterclass/)
 - [ ] [JUnit and Mockito Crash Course](https://www.udemy.com/course/junitandmockitocrashcourse/)
 - [ ] [The Complete 2025 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
 - [ ] [Software Testing Masterclass (2025) - From Novice to Expert](https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/)
