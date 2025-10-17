@@ -15,15 +15,16 @@
 - [ ] [Maven Crash Course](https://www.udemy.com/course/mavencrashcourse)
 - [ ] [Gradle for java developers](https://www.udemy.com/course/gradle-for-java-developers/)
 - [ ] [Serverless using AWS Lambda for Java Developers](https://www.udemy.com/course/serverless-programming-using-aws-lambda-for-java-developers)
+- [ ] [Generative AI for Java Developers with Azure OpenAI ChatGPT](https://www.udemy.com/course/generative-ai-for-java-developers-with-azure-openai/)
 - [ ] [Kafka fundamentals for java developers](https://www.udemy.com/course/kafka-fundamentals-for-java-developers/)
 - [ ] [Java Logical Programs and Data Structures For Beginners](https://www.udemy.com/course/java-logical-programs/)
 - [ ] [React in easy steps with Node and Java Backend](https://www.udemy.com/course/reactjs-in-easy-steps/)
 
 ### SPRING MVC
 
+- [ ] [Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/)
 - [ ] [Spring Boot Fundamentals](https://www.udemy.com/course/springbootfundamentals/)
 - [ ] [Spring Framework In Easy Steps](https://www.udemy.com/course/springframeworkineasysteps/)
-- [ ] [Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/)
 - [ ] [Spring Cloud Fundamentals](https://www.udemy.com/course/spring-cloud-fundamentals/)
 - [ ] [REST APIs using Spring Data REST](https://www.udemy.com/course/microservices-rest-apis-using-spring-data-rest/)
 - [ ] [Project Development Using Spring Boot](https://www.udemy.com/course/end-to-end-java-project-development-using-spring-boot/)
