@@ -2,7 +2,7 @@
 
 ### QA TESTING
 
-- [ ] [The Complete 2025 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)
+- [ ] [The Complete 2025 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/) | [Notes](https://github.com/omeatai/JAVA-LABS-IFEANYI/blob/main/labs/s1.md)
 - [ ] [Software Testing Masterclass (2025) - From Novice to Expert](https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/)
 - [ ] [Learn Software Testing : Beginner to Expert.](https://www.udemy.com/course/comprehensive-software-testing-bootcamp-beginner-to-expert/)
 - [ ] [Learn Manual Software Testing + Agile with Jira Tool](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/)
