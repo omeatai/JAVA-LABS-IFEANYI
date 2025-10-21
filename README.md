@@ -10,17 +10,26 @@
 - [ ] [Learn GenAI Tools & AI Agents for Software Testing](https://www.udemy.com/course/generative-ai-in-software-testing/)
 - [ ] [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/)
 - [ ] [Software Testing Made Easy for Beginners](https://www.udemy.com/course/software-testing-made-easy/)
+- [ ] [Git For Beginners](https://www.udemy.com/course/git-for-beginners-h/)
+- [ ] [Docker for Java Developers](https://www.udemy.com/course/docker-for-beginners-j/)
+- [ ] [Maven Crash Course](https://www.udemy.com/course/mavencrashcourse)
+- [ ] [Maven for Absolute Beginners: Build & Manage Java Projects](https://www.udemy.com/course/maven-for-absolute-beginners-build-manage-java-projects/)
+- [ ] [Gradle for java developers](https://www.udemy.com/course/gradle-for-java-developers/)
+
 
 ### JAVA BASICS
 
 - [x] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners) | [Notes](https://github.com/omeatai/JAVA-LABS-IFEANYI/blob/main/labs/1.md)
+- [x] [Java Spring Framework, Spring Boot, Spring AI - Gen AI](https://www.udemy.com/course/spring-5-with-spring-boot-2/) | [Notes]()
+- [ ] [Spring 6 & Spring Boot 3: AI, Security, Docker, Cloud](https://www.udemy.com/course/spring-framework-boot/)
+- [ ] [Spring AI - GenAI with Telusko](https://www.udemy.com/course/spring-ai-genai)
+- [ ] [Java for Beginners](https://www.udemy.com/course/java-for-beginners-telusko/)
+- [ ] [Java for Programmers Crash Course](https://www.udemy.com/course/java-for-programmers-crash-course/)
 - [ ] [Core Java Made Easy (Covers the latest Java 18)](https://www.udemy.com/course/corejavamadeeasy)
 - [ ] [Java Web Services](https://www.udemy.com/course/java-web-services/)
 - [ ] [Java Web Services Part 2 - SOAP and REST Security](https://www.udemy.com/course/javawebservicespart2/)
 - [ ] [JDBC Servlets and JSP - Java Web Development Fundamentals](https://www.udemy.com/course/jdbcservletsandjsp/)
 - [ ] [Java Message Service - JMS Fundamentals](https://www.udemy.com/course/java-message-service-jms-fundamentals/)
-- [ ] [Maven Crash Course](https://www.udemy.com/course/mavencrashcourse)
-- [ ] [Gradle for java developers](https://www.udemy.com/course/gradle-for-java-developers/)
 - [ ] [Serverless using AWS Lambda for Java Developers](https://www.udemy.com/course/serverless-programming-using-aws-lambda-for-java-developers)
 - [ ] [Generative AI for Java Developers with Azure OpenAI ChatGPT](https://www.udemy.com/course/generative-ai-for-java-developers-with-azure-openai/)
 - [ ] [Generative AI in a Weekend: Learn ChatGPT and OpenAI](https://www.udemy.com/course/generative-ai-with-chatgpt-and-openai-api/)
