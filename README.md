@@ -44,27 +44,6 @@
 - [ ] [Eclipse Tutorial For Beginners : Learn Java IDE in 10 Steps](https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/)
 - [ ] [Master Hibernate and JPA with Spring Boot in 100 Steps](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/)
 
-### JAVA CLOUD - AZURE & AWS
-
-- [ ] [Master AWS Lambda: Go Serverless with AWS](https://www.udemy.com/course/serverless-tutorial-aws-lambda-and-azure-functions/)
-- [ ] [Docker for Beginners: DevOps for Java & Spring Boot](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/)
-- [ ] [Learn Cloud Computing with AWS in a Weekend](https://www.udemy.com/course/cloud-computing-aws/)
-- [ ] [Learn AWS - Java Spring Boot to AWS Elastic Beanstalk](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/)
-- [ ] [Learn Azure Web Apps - Java Spring Boot Apps to Azure](https://www.udemy.com/course/deploy-spring-boot-to-azure/)
-- [ ] [Docker in AWS - Java Spring Boot to AWS Fargate & ECS](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/)
-- [ ] [Kubernetes for Beginners: Google Cloud, AWS & Azure](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/)
-- [ ] [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/)
-- [ ] [AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/)
-- [ ] [AZ-900 Microsoft Azure Fundamentals | Practice Exams](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-exams-tests/)
-- [ ] [DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/)
-- [ ] [AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/)
-- [ ] [AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/)
-- [ ] [AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/)
-- [ ] [AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/)
-- [ ] [AWS Certified Solutions Architect Associate - EXAM REVIEW](https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/)
-- [ ] [AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/)
-- [ ] [AWS Certified Developer Associate - EXAM REVIEW - 2021](https://www.udemy.com/course/new-exam-review-aws-certified-developer-associate/)
-
 ### SPRING MVC
 
 - [ ] [Spring MVC For Beginners - Build Java Web App in 25 Steps](https://www.udemy.com/course/spring-mvc-tutorial-for-beginners-step-by-step/)
@@ -89,6 +68,27 @@
 - [ ] [Project Development Using Spring Boot](https://www.udemy.com/course/end-to-end-java-project-development-using-spring-boot/)
 - [ ] [Java Message Service - JMS Fundamentals](https://www.udemy.com/course/java-message-service-jms-fundamentals/)
 - [ ] [Devops Tools and AWS for Java Microservice Developers](https://www.udemy.com/course/devops-tools-and-aws-for-java-microservice-developers/)
+
+### JAVA CLOUD - AZURE & AWS
+
+- [ ] [Master AWS Lambda: Go Serverless with AWS](https://www.udemy.com/course/serverless-tutorial-aws-lambda-and-azure-functions/)
+- [ ] [Docker for Beginners: DevOps for Java & Spring Boot](https://www.udemy.com/course/docker-course-with-java-and-spring-boot-for-beginners/)
+- [ ] [Learn Cloud Computing with AWS in a Weekend](https://www.udemy.com/course/cloud-computing-aws/)
+- [ ] [Learn AWS - Java Spring Boot to AWS Elastic Beanstalk](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/)
+- [ ] [Learn Azure Web Apps - Java Spring Boot Apps to Azure](https://www.udemy.com/course/deploy-spring-boot-to-azure/)
+- [ ] [Docker in AWS - Java Spring Boot to AWS Fargate & ECS](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/)
+- [ ] [Kubernetes for Beginners: Google Cloud, AWS & Azure](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/)
+- [ ] [Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps](https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/)
+- [ ] [AZ-900 Microsoft Azure Fundamentals in a Weekend](https://www.udemy.com/course/azure-certification-az-900-azure-fundamentals/)
+- [ ] [AZ-900 Microsoft Azure Fundamentals | Practice Exams](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-exams-tests/)
+- [ ] [DP-900: Microsoft Azure Data Fundamentals in a Weekend](https://www.udemy.com/course/dp-900-azure-data-fundamentals-certification/)
+- [ ] [AI-900: Microsoft Azure AI Fundamentals in a Weekend](https://www.udemy.com/course/azure-ai-900-azure-ai-fundamentals/)
+- [ ] [AWS Certified Cloud Practitioner - AWS Certification](https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/)
+- [ ] [AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-5-practice-tests/)
+- [ ] [AWS Certified Solutions Architect Associate - SAA C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/)
+- [ ] [AWS Certified Solutions Architect Associate - EXAM REVIEW](https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/)
+- [ ] [AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/)
+- [ ] [AWS Certified Developer Associate - EXAM REVIEW - 2021](https://www.udemy.com/course/new-exam-review-aws-certified-developer-associate/)
 
 ### JAVA TESTING & DESIGN
 
