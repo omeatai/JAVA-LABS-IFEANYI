@@ -19,8 +19,8 @@
 
 ### JAVA BASICS
 
-- [x] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners) | [Notes](https://github.com/omeatai/JAVA-LABS-IFEANYI/blob/main/labs/1.md)
 - [x] [Java Spring Framework, Spring Boot, Spring AI - Gen AI](https://www.udemy.com/course/spring-5-with-spring-boot-2/) | [Notes]()
+- [x] [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners) | [Notes](https://github.com/omeatai/JAVA-LABS-IFEANYI/blob/main/labs/1.md)
 - [ ] [Spring 6 & Spring Boot 3: AI, Security, Docker, Cloud](https://www.udemy.com/course/spring-framework-boot/)
 - [ ] [Spring AI - GenAI with Telusko](https://www.udemy.com/course/spring-ai-genai)
 - [ ] [Java for Beginners](https://www.udemy.com/course/java-for-beginners-telusko/)
