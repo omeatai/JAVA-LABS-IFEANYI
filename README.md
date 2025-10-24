@@ -16,7 +16,6 @@
 - [ ] [Maven for Absolute Beginners: Build & Manage Java Projects](https://www.udemy.com/course/maven-for-absolute-beginners-build-manage-java-projects/)
 - [ ] [Gradle for java developers](https://www.udemy.com/course/gradle-for-java-developers/)
 
-
 ### JAVA BASICS
 
 - [x] [Java Spring Framework, Spring Boot, Spring AI - Gen AI](https://www.udemy.com/course/spring-5-with-spring-boot-2/) | [Notes]()
@@ -51,6 +50,13 @@
 - [ ] [AWS Interview Guide - Get Ready for AWS Interview](https://www.udemy.com/course/aws-interview-questions-answers/)
 - [ ] [Eclipse Tutorial For Beginners : Learn Java IDE in 10 Steps](https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/)
 - [ ] [Java Logical Programs and Data Structures For Beginners](https://www.udemy.com/course/java-logical-programs/)
+
+### JAVA TESTING & DESIGN
+
+- [ ] [JUnit and Mockito Crash Course](https://www.udemy.com/course/junitandmockitocrashcourse/)
+- [ ] [Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/)
+- [ ] [Learn Java Unit Testing with Junit & Mockito in 30 Steps](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/)
+- [ ] [Selenium WebDriver & Java - Automation with Selenium](https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/)
 
 ### SPRING MVC
 
@@ -99,14 +105,6 @@
 - [ ] [AWS Certified Solutions Architect Associate - EXAM REVIEW](https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/)
 - [ ] [AWS Certified Developer Associate - AWS Certification](https://www.udemy.com/course/aws-certified-developer-associate-step-by-step/)
 - [ ] [AWS Certified Developer Associate - EXAM REVIEW - 2021](https://www.udemy.com/course/new-exam-review-aws-certified-developer-associate/)
-
-### JAVA TESTING & DESIGN
-
-
-- [ ] [JUnit and Mockito Crash Course](https://www.udemy.com/course/junitandmockitocrashcourse/)
-- [ ] [Master Java Unit Testing with Spring Boot & Mockito](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/)
-- [ ] [Learn Java Unit Testing with Junit & Mockito in 30 Steps](https://www.udemy.com/course/mockito-tutorial-with-junit-examples/)
-- [ ] [Selenium WebDriver & Java - Automation with Selenium](https://www.udemy.com/course/automation-testing-with-selenium-and-java-for-beginners/)
 
 ### YOUTUBE
 
